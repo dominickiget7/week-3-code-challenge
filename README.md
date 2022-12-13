@@ -25,7 +25,7 @@
 
 Open a terminal / command line interface on your computer.
 
-Git clone the repo by using the following so as to create a copy of the code on the local machine storage :​git clone git@github.com:Bwaweru12345/week-3-code-challenge.git
+Git clone the repo by using the following so as to create a copy of the code on the local machine storage :
 
 Then change the files directory by typing the following in the terminal :cd week-3-code-challenge
 
